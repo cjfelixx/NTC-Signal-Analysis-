@@ -1,1 +1,0 @@
-figure(3);gscatter(features(1:130,1),features(1:130,2),LABELS);
