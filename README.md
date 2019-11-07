@@ -1,4 +1,4 @@
-# Image-Sharpening-Blurrying-project
+# Neutron Time Cube (NTC) Own Signal Analysis tool
 This is a python file for signal analysis on output waveforms using scintillating bars and Silicon Photomultiplier (SiPM) arrays.
 Application on elementary particle detection.
 ## Notes
